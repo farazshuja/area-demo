@@ -1,0 +1,24 @@
+{
+	"data": [
+		{
+			"year": 0,			
+			"revenue": 40000
+		},
+		{
+			"year": 700,			
+			"revenue": 605000
+		},
+		{
+			"year": 1000,			
+			"revenue": 185000
+		},
+		{
+			"year": 2235,			
+			"revenue": 862169
+		},
+		{
+			"year": 3050,
+			"revenue": 0
+		}
+	]
+}
